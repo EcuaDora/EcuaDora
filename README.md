@@ -5,7 +5,7 @@ I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :ru:
 <br/>and currently studying at ETU “LETI”.
 <br/>
 <br/>
-@@ -9,39 +9,41 @@ I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :r
+
 <p>
   <a href="https://github.com/EcuaDora" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
   <a href="https://t.me/sense_of_sadness" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> 
@@ -14,7 +14,6 @@ I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :ru:
 </p>
 <br/>
 
-## 🔧 Langueges & Tools
 ## 🔧 Languages & Tools
 <P>
    
