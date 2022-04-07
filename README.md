@@ -1,9 +1,16 @@
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi, welcome to my page!
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Konichiwa!
 
 I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> 
-<br/>and currently studying at ETU “LETI”.
+<br/>and currently studying at .
+#EcuaDora { 
+  position: Saint Petersburg, Russia; 
+  height: 168cm; 
+  display: girl; 
+  background: ETU “LETI” student, front-end developer; 
+  color: navy 
+}
 <br/>
-
+<br/>
 
 <p>
   <a href="https://github.com/EcuaDora" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
@@ -15,7 +22,8 @@ I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b>
 
 ## 🔧 Languages & Skills
 <p>
-   
+  - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+  - 🌱 Photographing on film.(https://vk.com/fabula_of_vagus)
   
   
   </p>
