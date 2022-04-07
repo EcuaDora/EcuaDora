@@ -27,7 +27,7 @@
   
   
   - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`<br/>
-  - 🌱 Photographing on film.[my site](https://vk.com/fabula_of_vagus)
+  - 🌱 Photographing on [film](https://vk.com/fabula_of_vagus)
   - 💅 Zapisyvajtes' na nogotochki
   
   
