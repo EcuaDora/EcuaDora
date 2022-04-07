@@ -24,9 +24,11 @@
 
 ## 🔧 Languages & Skills
 <p>
+  <br/>
+  <pre>
   - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`<br/>
   - 🌱 Photographing on film.(https://vk.com/fabula_of_vagus)
-  
+  </pre>
   
   </p>
 <br/>
