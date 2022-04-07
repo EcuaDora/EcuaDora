@@ -1,7 +1,6 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hi, welcome to my page!
 
-I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :ru:
-I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :ru:
+I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> 
 <br/>and currently studying at ETU “LETI”.
 <br/>
 
@@ -15,16 +14,9 @@ I'm Dari'a, front-end developer from <b>Saint Petersburg, Russia</b> :ru:
 <br/>
 
 ## 🔧 Languages & Skills
-<P>
+<p>
    
-    <img alt="C++" src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=5998d3"/>
-    <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=5998d3"/>
-    <img alt="Git" src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=5998d3"/>
-    <img alt="GitHub" src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=5998d3"/>
-    //<img alt="HTML" src=""/>
-    //<img alt="CSS" src=""/>
-    //<img alt="PHP" src=""/>
-    //<img alt="Java Script" src=""/>
+  
   
   </p>
 <br/>
