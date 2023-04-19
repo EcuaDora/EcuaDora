@@ -5,7 +5,7 @@
 <pre>
 #EcuaDora { 
   position: Saint Petersburg, Russia;  
-  background: ETU “LETI” student, front-end developer,DS junior; 
+  background: ETU “LETI” student, front-end developer, DS junior; 
   color: navy 
 }
 </pre>
