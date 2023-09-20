@@ -5,7 +5,7 @@
 <pre>
 #EcuaDora { 
   position: Saint Petersburg, Russia;  
-  background: ETU “LETI” student, front-end developer, DS junior; 
+  background: Data Scientist, ml-engineer, analyst, front-end developer in the past; 
   color: navy 
 }
 </pre>
@@ -22,11 +22,11 @@
 
 ## 🔧 Languages & Skills
 <p>
-  
-  
-  - ⚙️ I use daily: `.csv`, `.py`, `.pynb`, `.css`, `.svg`, `.psd`, `.html`<br/>
+  - Python, SQL, HTML
+  - Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
   - 🌱 Photographing on [film](https://vk.com/fabula_of_vagus)
-  - 💅 Zapisyvajtes' na nogotochki
+  - my articles [1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ
+ПРАВОПИСАНИЯ](https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
   
   
   </p>
