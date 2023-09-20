@@ -26,9 +26,9 @@
   <br/>
   -✔️ Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
   <br/>
-  -⌨️ Algorithms: hackerrank (https://www.hackerrank.com/FedotovaDora?hr_r=1)
+  -⌨️ Algorithms: hackerrank [*](https://www.hackerrank.com/FedotovaDora?hr_r=1)
    <br/>
-  -📷 Photo- and video- maker https://vk.com/fabula_of_vagus
+  -📷 Photo- and video- maker [click here](https://vk.com/fabula_of_vagus)
   <br/>
   -🌱 My articles  <br/>
   1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ
