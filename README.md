@@ -22,14 +22,15 @@
 
 ## 🔧 Languages & Skills
 <p>
-  - Python, SQL, HTML
+  -✔️ Python, SQL, HTML
   <br/>
-  - Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
+  -✔️ Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
   <br/>
-  - 🌱 Photo- and video- maker [click here](https://vk.com/fabula_of_vagus)
+  - 📷 Photo- and video- maker https://vk.com/fabula_of_vagus
   <br/>
-  - my articles [АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ
-ПРАВОПИСАНИЯ](https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
+  - 🌱 My articles 
+  1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ
+(https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
   <br/>
   
   </p>
