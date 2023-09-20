@@ -28,9 +28,9 @@
   <br/>
   -⌨️ Algorithms: hackerrank (https://www.hackerrank.com/FedotovaDora?hr_r=1)
    <br/>
-  - 📷 Photo- and video- maker https://vk.com/fabula_of_vagus
+  -📷 Photo- and video- maker https://vk.com/fabula_of_vagus
   <br/>
-  - 🌱 My articles  <br/>
+  -🌱 My articles  <br/>
   1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ
 (https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
   <br/>
