@@ -26,10 +26,10 @@
   <br/>
   - Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
   <br/>
-  - 🌱 Photographing on [film](https://vk.com/fabula_of_vagus)
+  - 🌱 Photographing on [film] (https://vk.com/fabula_of_vagus)
   <br/>
-  - my articles [1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ
-ПРАВОПИСАНИЯ](https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
+  - my articles [АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ
+ПРАВОПИСАНИЯ] (https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
   
   
   </p>
