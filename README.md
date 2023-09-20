@@ -28,7 +28,7 @@
   <br/>
   - 📷 Photo- and video- maker https://vk.com/fabula_of_vagus
   <br/>
-  - 🌱 My articles 
+  - 🌱 My articles  <br/>
   1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ
 (https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
   <br/>
