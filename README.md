@@ -1,6 +1,5 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Konichiwa!
 
-
 <br/>
 <pre>
 #EcuaDora { 
@@ -13,32 +12,26 @@
 <br/>
 
 <p>
-  <a href="https://github.com/EcuaDora" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
-  <a href="https://t.me/sense_of_sadness" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-   <a href="mailto: FedotovaDora@yandex.ru" target="_blank"><img alt="mail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+  [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/EcuaDora)
+  [![Telegram](https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sense_of_sadness)
+  [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:FedotovaDora@yandex.ru)
 </p>
 <br/>
 
 ## 🔧 Languages & Skills
 <p>
-  -✔️ Python, SQL, HTML
+  - ✔️ Python, SQL, HTML
   <br/>
-  -✔️ Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
+  - ✔️ Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost, Pytorch
   <br/>
-  -⌨️ Algorithms:  ![hackerrank](https://www.hackerrank.com/FedotovaDora?hr_r=1)
-   <br/>
-  -📷 Photo- and video- maker ![click here](https://vk.com/fabula_of_vagus)
+  - ⌨️ Algorithms: [hackerrank](https://www.hackerrank.com/FedotovaDora?hr_r=1)
   <br/>
-  -🌱 My articles  <br/>
-  1. АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ
-![](https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
+  - 📷 Photo- and video-maker [click here](https://vk.com/fabula_of_vagus)
   <br/>
-  
-  </p>
-  Похихикать:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  - 🌱 My articles  <br/>
+  1. [АНАЛИЗ АЛГОРИТМОВ КОНТЕКСТНО-СВОБОДНОЙ КОРРЕКЦИИ ПРАВОПИСАНИЯ](https://nnb.etu.ru/assets/files/rezultaty/mag/2023/tom3_nnb-2023-1.pdf)
+  <br/>
+</p>
 
-
-
-
+Похихикать:
+![Jokes Card](https://readme-jokes.vercel.app/api)
