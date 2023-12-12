@@ -5,7 +5,7 @@
 <pre>
 #EcuaDora { 
 - Location: Saint Petersburg, Russia
-- Background: Python developer, Data Scientist, ML-engineer, Analyst, have front-end developer nackground
+- Background: Python developer, Data Scientist, ML-engineer, Analyst, have front-end developer background
 - Color: navy
 }
 </pre>
